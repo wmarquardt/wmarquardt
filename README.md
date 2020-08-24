@@ -41,9 +41,7 @@ class Wmarquardt:
 if __name__ == '__main__':
     me = Wmarquardt()
 ```
-```bash
-cat aboutme
-```
+
 
 ```bash
 $cat aboutme
