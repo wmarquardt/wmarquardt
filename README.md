@@ -29,7 +29,7 @@ class Wmarquardt:
             'devops': ['Docker', 'Nginx', 'GitHub Actions', 'D.O', 'IBM Cloud'],
             'tools': ['GIT', 'GitHub', '', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery'],
             'misc': ['TDD', 'SCRUM', 'GNU/Linux', 'SockerIO'],
-            'sec_toolstlin': ['Charles Proxy', 'Metasploit', '']
+            'sec_toolst': ['Charles Proxy', 'Metasploit']
         }
         self.architecture = ['SPA', 'MVC', 'microservices', 'serverless']
         self.current_learning = ['Elixir', 'LGPD', 'Ansible', 'Kubernetes']
@@ -41,7 +41,6 @@ class Wmarquardt:
 if __name__ == '__main__':
     me = Wmarquardt()
 ```
-
 
 ```bash
 $cat aboutme
