@@ -27,9 +27,8 @@ class Wmarquardt:
             'backend': ['Python', 'Bash', 'Go', 'NodeJS'],
             'database': ['MySQL', 'Cassandra', 'Aerospike', 'Redis'],
             'devops': ['Docker', 'Nginx', 'GitHub Actions', 'D.O', 'IBM Cloud'],
-            'tools': ['GIT', 'GitHub', '', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery'],
             'misc': ['TDD', 'SCRUM', 'GNU/Linux', 'SockerIO'],
-            'sec_toolst': ['Charles Proxy', 'Metasploit']
+            'sec_tools': ['Charles Proxy', 'Metasploit']
         }
         self.architecture = ['SPA', 'MVC', 'microservices', 'serverless']
         self.current_learning = ['Elixir', 'LGPD', 'Ansible', 'Kubernetes']
