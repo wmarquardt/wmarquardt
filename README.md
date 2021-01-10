@@ -4,11 +4,11 @@ whoami: William Marquardt
 
 contact:
 
-- linkedin: @williammqt
-- personal-website: wmarquardt.com
+- [linkedin](https://www.linkedin.com/in/williammqt/)
+- [personal-website](https://wmarquardt.com)
 
 more links:
-- try-hack-me: wmarquardt
+- [try-hack-me](https://tryhackme.com/p/wmarquardt)
 
 I'm a software engineer currently specializing in cyber security, working in Curitiba, Brazil.
 
