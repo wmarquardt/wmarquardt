@@ -12,6 +12,6 @@ more links:
 
 
 
-I'm a software engineer currently specializing in cyber security, working at Curitiba, Brazil.
+I'm a software engineer currently specializing in cyber security, living in Curitiba, Brazil.
 
 ---EOF---
