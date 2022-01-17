@@ -10,4 +10,4 @@ contact:
 - [personal-website](https://wmarquardt.com)
 
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=wmarquardt&show_icons=true)
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=wmarquardt&theme=merko&show_icons=true)
